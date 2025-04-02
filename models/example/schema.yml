@@ -1,7 +1,0 @@
-
-version: 2
-
-models:
-    - name: stg_news_data
-      description: "A news data dbt model"
-     
